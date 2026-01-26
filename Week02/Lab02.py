@@ -19,3 +19,6 @@ else:
         print("Scissors beats Paper: You win!")
     else:
         print("You lose!")
+
+    if playerChoice != 1:
+        print("You didn't pick the classic Rock...")
