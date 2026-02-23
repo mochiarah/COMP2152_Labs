@@ -1,0 +1,7 @@
+2026-02-22 21:09:16,ping,google.com,19,Success
+2026-02-22 21:09:24,nslookup,github.com,Not found,Failed
+2026-02-22 21:09:29,ipconfig,all,D8-BB-C1-57-AD-9D / 192.168.159.1,Captured
+2026-02-22 21:09:34,arp,local,23 devices,Captured
+2026-02-22 21:10:24,ping,youtube.com,18,Success
+2026-02-22 21:10:27,ipconfig,all,D8-BB-C1-57-AD-9D / 192.168.159.1,Captured
+2026-02-22 21:10:30,arp,local,23 devices,Captured
