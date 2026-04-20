@@ -1,6 +1,6 @@
 # ============================================================
 #  WEEK 14 LAB — Q2: HTTP SECURITY HEADER CHECKER
-#  COMP2152 — [Your Name Here]
+#  COMP2152 — Khiara Mercado
 # ============================================================
 
 import urllib.request
